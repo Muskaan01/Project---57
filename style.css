@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h1 {
+    font-variant: small-caps;
+    font-size: 45px;
+    font-weight: 200;
+    text-shadow: 2px 2px #F8BBDO;
+}
+
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: 300px;
+}
+
+h2 {
+    font-family: cinzel;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+p {
+    font-size: 23px;
+    font-family: bookman old style;
+}
+
+hr {
+    height: 10px;
+    background-color: black;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    top: 10px;
+    left: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
